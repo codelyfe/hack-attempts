@@ -10,6 +10,17 @@ URL injecting attempts to watch out for...
 5. ../log/.git/config
 6. ../doc/.git/config
 7. ../autodiscover/autodiscover.json?@1337.com/owa/?&Email=autodiscover/autodiscover.json%3F@1337.com
+8. ../Telerik.Web.UI.WebResource.axd?type=rau
+9. ../WebInterface/
+10. ../sugar_version.json
+11. ../icons/sphere1.png
+12. ../static/historypage.js
+13. ../cgi-bin/authLogin.cgi
+14. ../remote/login
+15. ../sitecore/shell/sitecore.version.xml
+16. ../js/NewWindow_2_all.js
+17. ../cf_scripts/scripts/ajax/ckeditor/ckeditor.js
+18. ../showLogin.cc
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
