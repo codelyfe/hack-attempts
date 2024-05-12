@@ -21,6 +21,11 @@ URL injecting attempts to watch out for...
 16. ../js/NewWindow_2_all.js
 17. ../cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 18. ../showLogin.cc
+19. ../webfig/
+20. ../cgi-bin/config.exp
+21. ../solr/
+22. ../api/session/properties
+23. ../.env
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
