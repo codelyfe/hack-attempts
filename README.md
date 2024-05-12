@@ -42,7 +42,7 @@ URL injecting attempts to watch out for...
 3. ../.git/config
 4. ../favicon.ico
 ```
-## Linkedn Url Attempts
+## Linkedin Url Attempts
 ```
 1. ../wp-content/plugins/chp-ads-block-detector/assets/img/icon.png
 ```
