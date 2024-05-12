@@ -1,4 +1,4 @@
-# hack-attempts
+# hack-attempts - 2024
 URL injecting attempts to watch out for...
 - I do not support these actions. This is used for studying and observing.
 ## ATTEMPTS:
