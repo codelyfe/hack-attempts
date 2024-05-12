@@ -29,6 +29,11 @@ URL injecting attempts to watch out for...
 23. ../.env
 24. ../owa/auth/logon.aspx
 25. ../Temporary_Listen_Addresses
+26. ../ews/exchanges/
+27. ../ews/exchange%20/
+28. ../ews/autodiscovers/
+29. ../autodiscover/autodiscover%20/
+30. ../ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
