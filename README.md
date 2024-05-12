@@ -12,3 +12,4 @@ URL injecting attempts to watch out for...
 1. ../vpn/index.html
 2. ../geoserver/web/
 3. ../.git/config
+4. ../favicon.ico
