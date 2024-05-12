@@ -26,6 +26,7 @@ URL injecting attempts to watch out for...
 21. ../solr/
 22. ../api/session/properties
 23. ../.env
+24. ../owa/auth/logon.aspx
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
