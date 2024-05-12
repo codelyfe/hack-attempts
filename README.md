@@ -8,3 +8,7 @@ URL injecting attempts to watch out for...
 4. ../backup/.git/config
 5. ../log/.git/config
 6. ../doc/.git/config
+## Shadow Server Attempts (shadowserver.org)
+1. /vpn/index.html
+2. /geoserver/web/
+3. /.git/config
