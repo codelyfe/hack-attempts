@@ -8,6 +8,7 @@ URL injecting attempts to watch out for...
 4. ../backup/.git/config
 5. ../log/.git/config
 6. ../doc/.git/config
+7. ../autodiscover/autodiscover.json?@1337.com/owa/?&Email=autodiscover/autodiscover.json%3F@1337.com
 ## Shadow Server Attempts (shadowserver.org)
 1. ../vpn/index.html
 2. ../geoserver/web/
