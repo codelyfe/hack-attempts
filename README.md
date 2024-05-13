@@ -34,6 +34,7 @@ URL injecting attempts to watch out for...
 28. ../ews/autodiscovers/
 29. ../autodiscover/autodiscover%20/
 30. ../ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+31. ../actuator/health
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
