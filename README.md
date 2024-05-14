@@ -38,6 +38,7 @@ URL injecting attempts to watch out for...
 32. ../+CSCOE+/logon.html
 33. ../dana-na/auth/url_default/welcome.cgi
 34. ../global-protect/login.esp
+35. ../wlwmanifest.xml  ( Microsoft Live Writer )
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
