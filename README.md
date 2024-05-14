@@ -36,7 +36,7 @@ URL injecting attempts to watch out for...
 
 16. ../js/NewWindow_2_all.js
 
-17. ../cf_scripts/scripts/ajax/ckeditor/ckeditor.js
+17. ../cf_scripts/scripts/ajax/ckeditor/ckeditor.js     ( CKEditor Web Text Editor )
 
 18. ../showLogin.cc
 
