@@ -72,7 +72,6 @@ URL injecting attempts to watch out for...
 
 34. ../global-protect/login.esp
 
-35. ../wlwmanifest.xml  ( Microsoft Live Writer )
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
@@ -84,7 +83,14 @@ URL injecting attempts to watch out for...
 
 4. ../favicon.ico
 ```
-## Linkedin Url Attempts
+## Linkedin Scans ( Not Hacks )
 ```
 1. ../wp-content/plugins/chp-ads-block-detector/assets/img/icon.png
 ```
+
+## Google Scans ( Not Hacks )
+```
+1. ../xmlrpc.php?rsd
+
+2. ../wlwmanifest.xml  ( Microsoft Live Writer )
+``
