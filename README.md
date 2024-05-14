@@ -73,7 +73,7 @@ URL injecting attempts to watch out for...
 34. ../global-protect/login.esp
 
 ```
-## Shadow Server Attempts (shadowserver.org)
+## Shadow Server Scans ( Unknown Reason ) (shadowserver.org)
 ```
 1. ../vpn/index.html
 
