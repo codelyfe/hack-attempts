@@ -86,6 +86,8 @@ URL injecting attempts to watch out for...
 ## Linkedin Scans ( Not Hacks )
 ```
 1. ../wp-content/plugins/chp-ads-block-detector/assets/img/icon.png
+
+2. ../robots.txt
 ```
 
 ## Google Scans ( Not Hacks )
