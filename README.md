@@ -44,7 +44,7 @@ URL injecting attempts to watch out for...
 
 20. ../cgi-bin/config.exp
 
-21. ../solr/
+21. ../solr/    ( Solr is an open-source enterprise-search platform, written in Java. )
 
 22. ../api/session/properties
 
