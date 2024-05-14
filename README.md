@@ -62,7 +62,7 @@ URL injecting attempts to watch out for...
 
 29. ../autodiscover/autodiscover%20/
 
-30. ../ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+30. ../ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application ( Microsoft Exchange Server designed for eDiscovery ( electronic discovery ) purposes )
 
 31. ../actuator/health
 
@@ -73,7 +73,7 @@ URL injecting attempts to watch out for...
 34. ../global-protect/login.esp
 
 ```
-## Shadow Server Scans ( Unknown Reason ) (shadowserver.org)
+## Shadow Server Scans ( Unknown Reason ) ( shadowserver.org )
 ```
 1. ../vpn/index.html
 
