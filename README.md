@@ -35,6 +35,9 @@ URL injecting attempts to watch out for...
 29. ../autodiscover/autodiscover%20/
 30. ../ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 31. ../actuator/health
+32. ../+CSCOE+/logon.html
+33. ../dana-na/auth/url_default/welcome.cgi
+34. ../global-protect/login.esp
 ```
 ## Shadow Server Attempts (shadowserver.org)
 ```
