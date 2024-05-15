@@ -72,6 +72,10 @@ URL injecting attempts to watch out for...
 
 34. ../global-protect/login.esp
 
+35. ../axis2-admin
+
+36. ../axis2
+
 ```
 ## Shadow Server Scans ( Unknown Reason ) ( shadowserver.org )
 ```
